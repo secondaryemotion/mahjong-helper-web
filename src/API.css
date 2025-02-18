@@ -1,0 +1,23 @@
+.hand-tile-row {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.hand-wait-row {
+    width: 100%;
+    height: 200px;
+}
+
+
+.hand-tiles-box {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+
+}
+.spacer{
+    width:20px;
+}
