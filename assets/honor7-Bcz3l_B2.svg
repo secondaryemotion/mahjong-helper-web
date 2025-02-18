@@ -1,0 +1,55 @@
+<svg width="209.000000" height="313.000000" viewBox="0 0 209 313" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <desc>
+        Created with Pixso.
+    </desc>
+    <defs>
+        <filter id="filter_1_124_dd" x="0.000000" y="0.000000" width="209.000000" height="313.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset dx="0" dy="4"/>
+            <feGaussianBlur stdDeviation="1.33333"/>
+            <feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+        </filter>
+        <filter id="filter_1_24_dd" x="4.000000" y="8.000000" width="195.000000" height="297.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset dx="0" dy="4"/>
+            <feGaussianBlur stdDeviation="1.33333"/>
+            <feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+        </filter>
+        <filter id="filter_1_40_dd" x="46.000000" y="59.000000" width="112.000000" height="188.271637" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset dx="0" dy="4"/>
+            <feGaussianBlur stdDeviation="1.33333"/>
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+            <feBlend mode="normal" in2="shape" result="effect_innerShadow_1"/>
+        </filter>
+        <clipPath id="clip1_39">
+            <rect id="Chun 1" rx="0.000000" width="145.000000" height="193.000000" transform="translate(29.500000 56.500000)" fill="white" fill-opacity="0"/>
+        </clipPath>
+    </defs>
+    <g filter="url(#filter_1_124_dd)">
+        <rect id="Rectangle 1" x="8.000000" y="0.000002" rx="20.000000" width="197.000000" height="297.000000" fill="#985B26" fill-opacity="1.000000"/>
+        <rect id="Rectangle 1" x="8.500000" y="0.500002" rx="20.000000" width="196.000000" height="296.000000" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.000000"/>
+        <g filter="url(#filter_1_24_dd)">
+            <rect id="Rectangle 2" x="8.000000" y="8.000002" rx="20.000000" width="187.000000" height="289.000000" fill="#FFF0DB" fill-opacity="1.000000"/>
+            <rect id="Rectangle 2" x="8.500000" y="8.500002" rx="20.000000" width="186.000000" height="288.000000" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.000000"/>
+        </g>
+        <rect id="Chun 1" rx="0.000000" width="145.000000" height="193.000000" transform="translate(29.500000 56.500000)" fill="#FFFFFF" fill-opacity="0"/>
+        <g clip-path="url(#clip1_39)">
+            <g filter="url(#filter_1_40_dd)">
+                <path id="Flattened" d="M82.87 73.15C82.85 72.9 82.84 72.67 82.82 72.46C83.15 68.78 88.27 65.25 92.33 62.45C94.19 61.16 95.84 60.03 96.69 59.1C98.33 57.45 117.94 75.3 116.81 77.11C117.8 78.94 113.64 86.85 110.48 89.38C108.09 90.7 106.49 96.97 105.42 106.58C116.15 103.88 126.16 101.33 140.24 97.56C142.03 97 152.61 109.45 157.73 115.78C158.47 116.69 157.46 117.45 157.24 117.61C157.21 117.63 157.2 117.64 157.21 117.64C157.01 117.69 156.67 117.73 156.25 117.79C154.5 118.03 151.27 118.48 150.55 119.99C149.6 122 148.23 124.65 146.68 127.63C141.23 138.17 133.62 152.88 134.6 158.31C134.75 159.12 134.36 161.1 132.14 160.87C123.12 160.08 113.01 159.88 103.41 159.98C103.35 172.17 103.41 185.04 103.47 197.83L103.47 197.83L103.47 197.83C103.49 201.45 103.5 205.05 103.52 208.64C104.59 233.05 103.72 234.66 101.26 239.22C100.41 240.79 99.37 242.72 98.15 246.07C97.61 247.56 96.44 247.95 95.37 245.55C93.88 243.19 89.37 233.04 91.42 213.91C91.93 189.3 91.95 175.19 91.82 160.23C78.79 160.65 68.33 161.43 65.5 161.64L65.06 161.68C62.36 161.8 62.68 160.64 63.13 159.05C63.3 158.44 63.49 157.77 63.53 157.08C62.03 145.46 58.49 135.28 48.14 125.79C46.32 123.96 46.18 120.73 46.01 116.86L46 116.64C45.87 113.76 48.24 110.62 50.51 113.43C52.96 117.52 58.27 117.91 60.86 117.96C73.36 114.7 83 112.23 91.36 110.12C91.33 103.6 91.31 96.37 91.31 88.23C92.33 82 87.17 78.05 85.12 77.84C83.08 77.09 82.95 74.75 82.87 73.15ZM91.43 121.49C87.22 122.56 83.21 123.62 79.66 124.55C74.68 125.86 70.62 126.93 68.22 127.47C66.53 127.88 66.1 128.82 67.14 130.11C71.65 135.69 73.81 142.76 75.06 146.86C75.65 148.8 76.04 150.07 76.38 150.2C77.66 150.62 80.83 150.44 86.47 150.13L86.47 150.13C88.03 150.04 89.77 149.95 91.71 149.85L91.68 146.63C91.59 139.38 91.5 131.33 91.43 121.49ZM103.5 149.39C108.59 149.25 114.5 149.18 121.3 149.22C122.35 149.4 124.76 143.04 127.61 135.54C129.88 129.56 132.42 122.86 134.78 118.15C136.49 115.33 134.42 114.21 130.08 114.17C124.3 114.13 114.6 115.97 104.46 118.3C103.92 127.31 103.63 137.92 103.5 149.39Z" fill="#E9411B" fill-opacity="1.000000" fill-rule="evenodd"/>
+                <path id="Flattened" d="" fill="#603B1A" fill-opacity="1.000000" fill-rule="evenodd"/>
+            </g>
+        </g>
+    </g>
+</svg>

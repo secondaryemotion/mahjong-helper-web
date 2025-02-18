@@ -1,0 +1,49 @@
+<svg width="209.000000" height="313.000000" viewBox="0 0 209 313" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <desc>
+        Created with Pixso.
+    </desc>
+    <defs>
+        <filter id="filter_4_3520_dd" x="0.000000" y="0.000000" width="209.000000" height="313.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset dx="0" dy="4"/>
+            <feGaussianBlur stdDeviation="1.33333"/>
+            <feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+        </filter>
+        <filter id="filter_4_3523_dd" x="4.000000" y="8.000000" width="195.000000" height="297.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset dx="0" dy="4"/>
+            <feGaussianBlur stdDeviation="1.33333"/>
+            <feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+        </filter>
+        <filter id="filter_4_3526_dd" x="32.000000" y="59.000000" width="139.000000" height="191.923752" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset dx="0" dy="4"/>
+            <feGaussianBlur stdDeviation="1.33333"/>
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+            <feBlend mode="normal" in2="shape" result="effect_innerShadow_1"/>
+        </filter>
+    </defs>
+    <g filter="url(#filter_4_3520_dd)">
+        <rect id="Rectangle 1" x="8.000000" y="0.000002" rx="20.000000" width="197.000000" height="297.000000" fill="#985B26" fill-opacity="1.000000"/>
+        <rect id="Rectangle 1" x="8.500000" y="0.500002" rx="20.000000" width="196.000000" height="296.000000" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.000000"/>
+        <g filter="url(#filter_4_3523_dd)">
+            <rect id="Rectangle 2" x="8.000000" y="8.000002" rx="20.000000" width="187.000000" height="289.000000" fill="#FFF0DB" fill-opacity="1.000000"/>
+            <rect id="Rectangle 2" x="8.500000" y="8.500002" rx="20.000000" width="186.000000" height="288.000000" stroke="#000000" stroke-opacity="1.000000" stroke-width="1.000000"/>
+        </g>
+        <g filter="url(#filter_4_3526_dd)">
+            <path id="Flattened" d="M93.33 60.04C85.13 56.47 84.24 62.86 85.34 66.98C87.63 75.02 90.52 79.21 93.99 84.23L93.99 84.23L93.99 84.23C94.74 85.3 95.5 86.41 96.3 87.61C97.1 88.78 98 91.02 97.86 92.09L97.73 102.99C90.45 104.61 83.51 105.74 78.58 105.4C65.86 104.77 75.27 113.04 78.13 112.83C83.67 112.28 90.46 111.43 97.63 110.38L97.54 117.88C80.43 121.41 65.89 123.98 64.55 122.69C57.42 117.43 49.84 120.63 54.35 127.72C57.16 132.88 60.54 137.88 63.94 142.91C69.33 150.88 74.76 158.91 78.04 167.77C78.14 167.98 78.24 168.17 78.34 168.35C76.29 171.6 74.08 174.44 71.53 177.05C68.29 173.67 66.05 175.42 67.88 180.43C61.35 185.92 52.59 190.7 39.26 196.94C28.78 201.48 29.53 208.38 42.22 203.66C56.09 197.82 65.55 192.87 72.26 187.89C89.36 211.76 90.87 215.02 91.14 240.79C91.87 254.89 105.33 252.7 106.58 243.75C107.57 237.5 106.97 228.83 106.4 220.62C106.09 216.16 105.79 211.83 105.76 208.09C105.64 194.21 105.56 180.88 105.74 167.78L106.63 167.63L106.64 167.63C107.81 167.43 108.99 167.22 110.17 167.03C112.49 170.81 114.9 175.09 117.33 179.4C125.58 194.06 133.98 208.98 139.48 205.31C146.12 200.7 154.64 200.15 158.27 201.21C161.26 202.06 162.45 203.33 163.59 204.54C164.26 205.25 164.91 205.94 165.89 206.51C172.87 209.7 171.41 205.54 168.99 201.88C166.57 197.84 160.65 194.43 153.23 190.14C143.52 184.53 131.23 177.43 120.81 165.52C121.41 165.46 122 165.4 122.61 165.34C123.72 165.23 124.99 165.78 126.21 166.31C127.57 166.9 128.87 167.47 129.79 167.03C131.32 166.13 131.97 162.92 132.37 160.89L132.38 160.86C134.2 153.55 138.29 146.78 142.41 139.95C145.22 135.3 148.05 130.61 150.19 125.71C150.51 125.02 151.52 124.6 152.49 124.19C153.56 123.75 154.57 123.33 154.56 122.6C154.01 117.37 146.83 107.75 142.68 107.98C141.17 108.32 139.57 108.68 137.88 109.06L137.85 109.07C129.37 110.98 118.88 113.33 108.51 115.56C108.74 113.24 109 110.9 109.27 108.56C119.05 106.93 128.71 105.06 136.22 103.21C137.34 103.17 136.14 94.9 128.48 94.07C127.18 94 126.73 94.4 126.11 94.95C125.62 95.39 125.02 95.93 123.8 96.4C120.89 97.09 117.46 97.99 113.78 98.97C112.67 99.26 111.53 99.56 110.38 99.86C110.73 97.35 111.1 94.82 111.49 92.29C112.65 86.16 121.76 81.14 126.66 79.37C128.83 78.59 131.25 72.62 127.06 72.39C117.14 71.26 106.54 66.26 97.05 61.79C95.79 61.19 94.55 60.61 93.33 60.04ZM76.88 184.07C81.48 179.79 84.42 175.32 86.71 170.11C90.28 169.96 93.63 169.62 96.9 169.17L96.61 192.46C96.62 195.6 96.06 205.54 94.23 203.97C87.82 198.7 85.36 195.47 76.88 184.07ZM74.79 132.78C81.28 131.08 89.34 129.52 97.41 128.21L97.27 139.7C91.81 140.41 86.22 141 79.85 141.68L78.82 141.79C76.88 141.84 72.09 133.46 74.79 132.78ZM81.71 151.43C83.58 150.75 89.9 149.59 97.16 148.63L97.02 159.19C90.62 159.99 85.7 160.29 84.93 159.42C83.74 158.05 81.32 154.12 81.71 151.43ZM106.28 147.58C106.14 151.03 106.03 154.48 105.94 157.94C110.07 157.32 114.32 156.62 118.16 156L118.16 156C119.33 155.81 120.46 155.62 121.55 155.45C123.76 155.08 126.83 151.73 125.03 148.4C124.04 146.55 115.54 146.71 106.28 147.58ZM107.51 126.71C107.2 130.59 106.94 134.47 106.73 138.34C110.82 137.68 115.03 136.9 119.63 135.92C120.77 135.55 121.26 134.99 121.7 134.47C122.18 133.89 122.62 133.38 123.84 133.24C125.42 133.28 126.3 134.31 127.12 135.26C127.91 136.19 128.64 137.04 129.89 136.84C132.17 136.33 137.91 124.07 132.35 124.22C128.12 124.28 118.43 125.21 107.51 126.71Z" fill="#454D9A" fill-opacity="1.000000" fill-rule="evenodd"/>
+            <path id="Flattened" d="" fill="#603B1A" fill-opacity="1.000000" fill-rule="evenodd"/>
+        </g>
+    </g>
+</svg>
